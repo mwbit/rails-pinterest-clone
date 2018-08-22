@@ -45,6 +45,8 @@ gem 'simple_form', '~> 4.0', '>= 4.0.1'
 
 gem "paperclip", "~> 6.0.0"
 
+gem 'masonry-rails'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
