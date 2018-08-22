@@ -47,6 +47,8 @@ gem "paperclip", "~> 6.0.0"
 
 gem 'masonry-rails'
 
+gem 'acts_as_votable', '~> 0.11.1'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
