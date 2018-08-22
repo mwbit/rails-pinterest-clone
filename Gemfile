@@ -37,6 +37,8 @@ gem 'devise'
 
 gem 'haml'
 
+gem 'jquery-rails'
+
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
