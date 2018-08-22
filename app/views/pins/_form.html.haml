@@ -2,7 +2,7 @@
   - if @pin.errors.any?
     #erros
     %h2
-    = pluralize(@pin.erros.count, "error")
+    = pluralize(@pin.errors.count, "error")
     prevend this Pin from saving
     %ul
       - @pin.errors.full_messages.each do |msg|
